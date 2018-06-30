@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  invaders.cpp
+d:\studia\space_invaders_280505\grochowski\invaders1 (1)\invaders\invaders.cpp(132): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+d:\studia\space_invaders_280505\grochowski\invaders1 (1)\invaders\invaders.cpp(342): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  invaders.vcxproj -> D:\STUDIA\SPACE_INVADERS_280505\Grochowski\invaders1 (1)\invaders\Debug\invaders.exe
